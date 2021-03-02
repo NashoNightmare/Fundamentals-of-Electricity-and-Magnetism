@@ -61,12 +61,12 @@ Electric force per unit charge. Electric field is radially outward from a positi
 ### 2.1 Electric Flux
 Property of an electric field that may be thought of as the number of electric field lines that intersect a given area.
 
-![alt text](flux_img)
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/flux_img.png)
 
 **Gauss's Law**
 
 The total flux linked with a closed surface is `1/ε` times the charge enclosed by the closed surface.
 
-![alt text]()
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/gauss_law.png)
 
-![alt text]() 
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/gauss_law2.png) 
