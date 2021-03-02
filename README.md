@@ -77,3 +77,5 @@ Property of an electric field that may be thought of as the number of electric f
 #### 2.2.1 Linear Charge Density : λ = q / l
 #### 2.2.2 Surface  Charge Density : σ = q / A
 #### 2.2.3 Volume Charge Density : ρ = q / v
+#### 2.2.4 Charge Density and Electric field relation :
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/field_density.png)
