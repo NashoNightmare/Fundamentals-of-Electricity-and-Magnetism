@@ -55,3 +55,18 @@ The electrical force between two charged objects is directly proportional to the
 Electric force per unit charge. Electric field is radially outward from a positive point charge and radially in toward a negative point charge.
 
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/electric_field.png)
+
+## 2.0 Gauss's law and applications
+
+### 2.1 Electric Flux
+Property of an electric field that may be thought of as the number of electric field lines that intersect a given area.
+
+![alt text](flux_img)
+
+**Gauss's Law**
+
+The total flux linked with a closed surface is `1/ε` times the charge enclosed by the closed surface.
+
+![alt text]()
+
+![alt text]() 
