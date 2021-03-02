@@ -72,3 +72,8 @@ Property of an electric field that may be thought of as the number of electric f
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/gauss_law2.png) 
 
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/gauss_law3.png)
+
+### 2.2 Charge Density
+#### 2.2.1 Linear Charge Density : λ = q / l
+#### 2.2.2 Surface  Charge Density : σ = q / A
+#### 2.2.3 Volume Charge Density : ρ = q / v
