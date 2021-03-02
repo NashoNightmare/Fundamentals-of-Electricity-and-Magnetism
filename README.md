@@ -2,6 +2,19 @@
 
 ## Contents 
 
+[![alt text](https://img.shields.io/badge/1.0-Charge%20and%20Electric%20field-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/2.0-Gauss's%20law%20and%20applications-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/3.0-Electric%20Potential-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/4.0-Electric%20Current%20%20and%20Ressistance-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/5.0-Capacitors%20and%20Dielectrics-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/6.0-Kirchhoff's%20laws-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/7.0-LC%20Circuits-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/8.0-Magnetic%20Field-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/9.0-Moving%20charges%20in%20magnetic%20field-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/10.0-Magnetic%20force-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/11.0-Induction-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/12.0-LR%20Circuits-yellowgreen)]()
+[![alt text](https://img.shields.io/badge/13.0-LCR%20Circuits-yellowgreen)]()
 
 ## 1.0 Charge and Electric field
 
