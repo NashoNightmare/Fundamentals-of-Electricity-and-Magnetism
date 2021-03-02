@@ -23,9 +23,9 @@ Electric force exists between charegs as described by coulomb's law.
 
 The electrical force between two charged objects is directly proportional to the product of the quantity of charge on the objects and inversely proportional to the square of the separation distance betweeb the two objects. 
 
-![alt text](coulomb-law)
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/coulomb_law.png)
 
 ### 1.2 Electric Field
 Electric force per unit charge. Electric field is radially outward from a positive point charge and radially in toward a negative point charge.
 
-![alt text](electric_field)
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/electric_field.png)
