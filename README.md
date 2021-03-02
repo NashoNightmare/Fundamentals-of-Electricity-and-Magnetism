@@ -79,3 +79,10 @@ Property of an electric field that may be thought of as the number of electric f
 #### 2.2.3 Volume Charge Density : ρ = q / v
 #### 2.2.4 Charge Density and Electric field relation :
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/field_density.png)
+
+## 3.0 Electric Potential
+The amount of work needed to move a unit charge from a reference point to a specific point against an electric field.
+
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/potential.png)
+
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/potential2.png)
