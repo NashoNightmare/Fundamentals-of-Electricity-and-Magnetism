@@ -90,6 +90,8 @@ The amount of work needed to move a unit charge from a reference point to a spec
 ## 4.0 Electric Current and Resistance
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/current1.png)
 
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/current6.png)
+
 ### 4.1 Current Density
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/current2.png)
 
@@ -101,3 +103,6 @@ Materials those obey this rule are said to follow ohm's law.
 Current though a conductor between two points is directly proportional to the voltage across the two points.
 
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/current4.png)
+
+### 4.3 Resistor Power Rating
+![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/current5.png)
