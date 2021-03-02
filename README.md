@@ -65,7 +65,7 @@ Property of an electric field that may be thought of as the number of electric f
 
 **Gauss's Law**
 
-`The total flux linked with a closed surface is `1/ε` times the charge enclosed by the closed surface.`
+`The total flux linked with a closed surface is 1/ε times the charge enclosed by the closed surface.`
 
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/gauss_law.png)
 
