@@ -47,7 +47,7 @@ Electric force exists between charegs as described by coulomb's law.
 
 **Coulomb's Law**
 
-The electrical force between two charged objects is directly proportional to the product of the quantity of charge on the objects and inversely proportional to the square of the separation distance betweeb the two objects. 
+`The electrical force between two charged objects is directly proportional to the product of the quantity of charge on the objects and inversely proportional to the square of the separation distance betweeb the two objects. `
 
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/coulomb_law.png)
 
@@ -65,7 +65,7 @@ Property of an electric field that may be thought of as the number of electric f
 
 **Gauss's Law**
 
-The total flux linked with a closed surface is `1/ε` times the charge enclosed by the closed surface.
+`The total flux linked with a closed surface is `1/ε` times the charge enclosed by the closed surface.`
 
 ![alt text](https://github.com/NashoNightmare/Fundamentals-of-Electricity-and-Magnetism/blob/master/imgs/gauss_law.png)
 
